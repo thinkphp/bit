@@ -4,7 +4,7 @@
 
 # Refereces
 
-  * https://www.topcoder.com/community/data-science/data-science-tutorials/binary-indexed-%20trees/ 
+  * https://www.topcoder.com/thrive/articles/Binary%20Indexed%20Trees
   * https://en.wikipedia.org/wiki/Fenwick_tree
   * http://www.geeksforgeeks.org/binary-indexed-tree-or-fenwick-tree-2/
 
